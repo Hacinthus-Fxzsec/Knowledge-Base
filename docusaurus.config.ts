@@ -70,7 +70,6 @@ const config: Config = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/fxz-logo.png',
-        href: 'https://www.jxnusec.cn/',
       },
       items: [
         {
@@ -81,7 +80,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Hacinthus-Fxzsec/Knowledge-Base',
           label: 'GitHub',
           position: 'right',
         },
@@ -94,7 +93,7 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Github',
+              label: 'Organization',
               href: 'https://github.com/Hacinthus-Fxzsec',
             },
             {

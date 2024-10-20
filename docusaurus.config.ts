@@ -66,10 +66,11 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: '风信子',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/fxz-logo.png',
+        href: 'https://www.jxnusec.cn/',
       },
       items: [
         {

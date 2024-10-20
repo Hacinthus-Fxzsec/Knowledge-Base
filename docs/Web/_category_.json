@@ -1,0 +1,8 @@
+{
+    "label": "CTF - Web",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "Explore various miscellaneous topics in CTF."
+    }
+}
